@@ -146,3 +146,4 @@ void MainWindow::disconnected()
 }
 
 // 阶段1：UI布局代码 - 标记此行为分阶段提交的标识
+// 阶段2：添加QTcpSocket连接服务器逻辑（标记分阶段提交）

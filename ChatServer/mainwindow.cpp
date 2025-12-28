@@ -152,3 +152,4 @@ void MainWindow::sendUserList()
     }
     userCountLabel->setText(QString("在线: %1人").arg(userMap.size()));
 }
+// 阶段2：添加QTcpServer监听客户端逻辑（标记分阶段提交）
