@@ -144,3 +144,5 @@ void MainWindow::disconnected()
 {
     chatTextEdit->append("与服务器断开连接");
 }
+
+// 阶段1：UI布局代码 - 标记此行为分阶段提交的标识
